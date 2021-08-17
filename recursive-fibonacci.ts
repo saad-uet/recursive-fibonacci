@@ -9,6 +9,6 @@ function fibonacci( upto, i = 0, j = 1 ){
     }
 }
 
-let upto = 5;
+let upto = 50;
 
-console.log( fibonacci( 25 ) );
+console.log( fibonacci( upto ) );
